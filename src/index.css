@@ -36,7 +36,7 @@ body {
 /* ─── NAVBAR ─── */
 nav {
   position: fixed; top: 0; left: 0; right: 0; z-index: 200;
-  display: flex; align-items: center; justify-content: flex-end; gap: 2rem;
+  display: flex; align-items: center; justify-content: space-between;
   padding: 0 5vw; height: 70px;
   background: rgba(10,10,10,0.85);
   backdrop-filter: blur(20px);
@@ -85,7 +85,7 @@ nav {
   position: fixed; top: 70px; left: 0; right: 0; z-index: 199;
   background: rgba(10,10,10,0.97); backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--border); padding: 1.5rem 5vw;
-  display: flex; flex-direction: column; gap: 1rem;
+  display: flex; flex-direction: column; gap: 1rem; align-items: flex-start;
   transform: translateY(-10px);
   opacity: 0;
   pointer-events: none;
