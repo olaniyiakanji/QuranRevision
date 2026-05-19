@@ -9,7 +9,7 @@ export default function Guests() {
         <div className="guests-grid">
           <div className="guest-card fade-up">
             <div className="guest-top">
-              <div className="guest-monogram">JA</div>
+              <img src="/assets/jamal.png" alt="Shaykh Jamal Abdulnasir" className="guest-photo" />
               <div className="guest-name">Shaykh Jamal Abdulnasir</div>
               <div className="guest-role">International Guest Scholar</div>
             </div>
@@ -19,8 +19,8 @@ export default function Guests() {
           </div>
           <div className="guest-card fade-up">
             <div className="guest-top">
-              <div className="guest-monogram">SA</div>
-              <div className="guest-name">Shaykh Ashiq</div>
+              <img src="/assets/Abutaymiyah.png" alt="Shaykh Abu Taymiyah" className="guest-photo" />
+              <div className="guest-name">Shaykh Abu Taymiyah</div>
               <div className="guest-role">International Guest Scholar</div>
             </div>
             <div className="guest-bottom">
@@ -29,7 +29,7 @@ export default function Guests() {
           </div>
           <div className="guest-card fade-up">
             <div className="guest-top">
-              <div className="guest-monogram">SA</div>
+              <img src="/assets/syed.png" alt="Shaykh Syed Anis" className="guest-photo" />
               <div className="guest-name">Shaykh Syed Anis</div>
               <div className="guest-role">International Guest Scholar</div>
             </div>

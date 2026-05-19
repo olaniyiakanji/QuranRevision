@@ -8,7 +8,7 @@ export default function Navbar() {
     <>
       <nav id="nav">
         <a href="#" className="nav-logo">
-          <div className="nav-logo-icon">ق</div>
+          <img src="/assets/Logo.jpeg" alt="QRD" className="nav-logo-icon" />
           <div className="nav-logo-text">
             <span>Qur'an Revision Day</span>
             <span>Lagos &middot; Nigeria</span>
