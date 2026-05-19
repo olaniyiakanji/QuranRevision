@@ -18,28 +18,28 @@ export default function About() {
         </div>
         <div className="about-right fade-up">
           <div className="about-card">
-            <div className="about-card-icon">ح</div>
+            <div className="about-card-icon">حُفَّاظ</div>
             <div>
               <span className="about-card-title">For Huffaz &amp; Memorizers</span>
               <p className="about-card-body">Open to anyone who has memorized more than 5 ajzāʾ &mdash; from students completing the full Qur&rsquo;an to those working through their first 5 parts.</p>
             </div>
           </div>
           <div className="about-card">
-            <div className="about-card-icon">م</div>
+            <div className="about-card-icon">مُرَجَعَة</div>
             <div>
               <span className="about-card-title">Structured Revision</span>
               <p className="about-card-body">Each participant is assigned a dedicated teacher or listener. Sessions are organized by category so every student can give and receive focused attention.</p>
             </div>
           </div>
           <div className="about-card">
-            <div className="about-card-icon">ر</div>
+            <div className="about-card-icon">رَمَضَان</div>
             <div>
               <span className="about-card-title">Spiritual Readiness for Ramadan</span>
               <p className="about-card-body">Strengthen your memorization before Tarawih and Qiyam. Arrive at Ramadan with your heart more connected to the words of Allah.</p>
             </div>
           </div>
           <div className="about-card">
-            <div className="about-card-icon">ن</div>
+            <div className="about-card-icon">نَادِي</div>
             <div>
               <span className="about-card-title">Building a Community</span>
               <p className="about-card-body">More than a revision day &mdash; this is the beginning of a long-term network of huffaz and memorizers across Lagos and Nigeria.</p>
