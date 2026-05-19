@@ -66,9 +66,9 @@ export default function App() {
       <Hero />
       <StatsBar />
       <About />
+      <Guests />
       <Programme />
       <Categories />
-      <Guests />
       <WhySection />
       <Venue />
       <Register />
